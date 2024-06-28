@@ -1,6 +1,7 @@
 package com.maverickstube.repositories;
 
-import com.maverickstube.maverickshub.models.Dislike;
+
+import com.maverickstube.models.Dislike;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

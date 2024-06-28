@@ -1,9 +1,8 @@
 package com.maverickstube.controllers;
 
-import com.maverickstube.maverickshub.dtos.requests.UploadMediaRequest;
-import com.maverickstube.maverickshub.dtos.responses.UploadMediaResponse;
-import com.maverickstube.maverickshub.exceptions.UserNotFoundException;
-import com.maverickstube.maverickshub.services.MediaService;
+import com.maverickstube.dtos.requests.UploadMediaRequest;
+import com.maverickstube.dtos.responses.UploadMediaResponse;
+import com.maverickstube.exceptions.UserNotFoundException;
 import lombok.AllArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

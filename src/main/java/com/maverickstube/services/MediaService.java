@@ -1,12 +1,12 @@
 package com.maverickstube.services;
 
 import com.github.fge.jsonpatch.JsonPatch;
-import com.maverickstube.maverickshub.dtos.requests.UploadMediaRequest;
-import com.maverickstube.maverickshub.dtos.responses.MediaResponse;
-import com.maverickstube.maverickshub.dtos.responses.UpdateMediaResponse;
-import com.maverickstube.maverickshub.dtos.responses.UploadMediaResponse;
-import com.maverickstube.maverickshub.exceptions.UserNotFoundException;
-import com.maverickstube.maverickshub.models.Media;
+import com.maverickstube.dtos.requests.UploadMediaRequest;
+import com.maverickstube.dtos.responses.MediaResponse;
+import com.maverickstube.dtos.responses.UpdateMediaResponse;
+import com.maverickstube.dtos.responses.UploadMediaResponse;
+import com.maverickstube.exceptions.UserNotFoundException;
+import com.maverickstube.models.Media;
 
 import java.util.List;
 
