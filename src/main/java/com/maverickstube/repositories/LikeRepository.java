@@ -1,6 +1,6 @@
 package com.maverickstube.repositories;
 
-import com.maverickstube.maverickshub.models.Like;
+import com.maverickstube.models.Like;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

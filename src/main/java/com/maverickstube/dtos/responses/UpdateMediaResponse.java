@@ -1,7 +1,7 @@
 package com.maverickstube.dtos.responses;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.maverickstube.maverickshub.models.Category;
+import com.maverickstube.models.Category;
 import lombok.Getter;
 import lombok.Setter;
 
