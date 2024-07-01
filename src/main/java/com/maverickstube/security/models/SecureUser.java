@@ -1,6 +1,6 @@
 package com.maverickstube.security.models;
 
-import com.maverickstube.maverickshub.models.User;
+import com.maverickstube.models.User;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
