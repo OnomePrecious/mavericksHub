@@ -1,11 +1,11 @@
 package com.maverickstube.services;
 
-import com.maverickstube.maverickshub.dtos.requests.LikeMediaRequest;
-import com.maverickstube.maverickshub.dtos.responses.LikeResponse;
-import com.maverickstube.maverickshub.models.Like;
-import com.maverickstube.maverickshub.repositories.LikeRepository;
-import com.maverickstube.maverickshub.repositories.MediaRepository;
-import com.maverickstube.maverickshub.repositories.UserRepository;
+import com.maverickstube.dtos.requests.LikeMediaRequest;
+import com.maverickstube.dtos.responses.LikeResponse;
+import com.maverickstube.models.Like;
+import com.maverickstube.repositories.LikeRepository;
+import com.maverickstube.repositories.MediaRepository;
+import com.maverickstube.repositories.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
