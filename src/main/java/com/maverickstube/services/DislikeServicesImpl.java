@@ -1,11 +1,11 @@
 package com.maverickstube.services;
 
-import com.maverickstube.maverickshub.dtos.requests.DislikeMediaRequest;
-import com.maverickstube.maverickshub.dtos.responses.DislikeMediaResponse;
-import com.maverickstube.maverickshub.models.Dislike;
-import com.maverickstube.maverickshub.repositories.DislikeRepository;
-import com.maverickstube.maverickshub.repositories.MediaRepository;
-import com.maverickstube.maverickshub.repositories.UserRepository;
+import com.maverickstube.dtos.requests.DislikeMediaRequest;
+import com.maverickstube.dtos.responses.DislikeMediaResponse;
+import com.maverickstube.models.Dislike;
+import com.maverickstube.repositories.DislikeRepository;
+import com.maverickstube.repositories.MediaRepository;
+import com.maverickstube.repositories.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
