@@ -1,7 +1,7 @@
 package com.maverickstube.repositories.controllers;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.maverickstube.maverickshub.dtos.requests.LogInRequest;
+import com.maverickstube.dtos.requests.LogInRequest;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
