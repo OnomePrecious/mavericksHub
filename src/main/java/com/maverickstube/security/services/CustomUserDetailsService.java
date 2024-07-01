@@ -1,9 +1,9 @@
 package com.maverickstube.security.services;
 
-import com.maverickstube.maverickshub.exceptions.UserNotFoundException;
-import com.maverickstube.maverickshub.models.User;
-import com.maverickstube.maverickshub.security.models.SecureUser;
-import com.maverickstube.maverickshub.services.UserService;
+import com.maverickstube.exceptions.UserNotFoundException;
+import com.maverickstube.models.User;
+import com.maverickstube.security.models.SecureUser;
+import com.maverickstube.services.UserService;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
