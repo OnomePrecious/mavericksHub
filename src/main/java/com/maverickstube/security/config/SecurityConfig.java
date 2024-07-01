@@ -1,6 +1,6 @@
 package com.maverickstube.security.config;
 
-import com.maverickstube.maverickshub.security.filters.CustomUsernamePasswordAuthenticationFilter;
+import com.maverickstube.security.filters.CustomUsernamePasswordAuthenticationFilter;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
