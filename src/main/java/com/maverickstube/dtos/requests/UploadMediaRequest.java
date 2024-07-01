@@ -1,6 +1,6 @@
 package com.maverickstube.dtos.requests;
 
-import com.maverickstube.maverickshub.models.Category;
+import com.maverickstube.models.Category;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.web.multipart.MultipartFile;
